@@ -87,7 +87,7 @@ vi_VN:
       no_recordings: 
     roles:
       can_create_rooms: Có thể tạo phòng
-      delete: 
+      delete: Xóa vai trò
       invalid_create:
       invalid_order:
       invalid_update:
@@ -146,7 +146,7 @@ vi_VN:
   email_sent: "Email %{email_type} của bạn đã được gửi! (Vui lòng kiểm tra thư mục Spam nếu bạn chưa nhận được)"
   enter_your_name: Điền họ tên!
   errors:
-    bigbluebutton: Herapo
+    bigbluebutton:
       help:
       message:
       title:
