@@ -66,28 +66,28 @@ vi_VN:
       rooms:
         info:
         title: Các phòng
-      subtitle: Thiết lập Greenlight
+      subtitle: Thiết lập Herapo
       title: Cài đặt trang
     flash:
-      approved:
+      approved: chấp thuận
       banned: Người dùng đã bị cấm thành công.
       unbanned: Người dùng được bỏ cấm thành công.
       delete: Người dùng đã xóa thành công
       delete_fail: Không thể xóa người dùng
       demoted: Người dùng đã được hạ bậc thành công
-      invite:
+      invite: Mời
       invite_email_verification:
       promoted: Người dùng đã được thăng bậc thành công
       registration_method_updated:
-      reset_password:
+      reset_password: đặt lại mật khẩu
       settings:
       unauthorized: Bạn không được phép thực hiện hành động đối với người dùng này
     recordings:
-      title:
-      no_recordings:
+      title: Các bản ghi
+      no_recordings: 
     roles:
-      can_create_rooms:
-      delete:
+      can_create_rooms: Có thể tạo phòng
+      delete: 
       invalid_create:
       invalid_order:
       invalid_update:
@@ -146,7 +146,7 @@ vi_VN:
   email_sent: "Email %{email_type} của bạn đã được gửi! (Vui lòng kiểm tra thư mục Spam nếu bạn chưa nhận được)"
   enter_your_name: Điền họ tên!
   errors:
-    bigbluebutton:
+    bigbluebutton: Herapo
       help:
       message:
       title:
